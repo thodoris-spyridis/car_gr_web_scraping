@@ -1,0 +1,4 @@
+[<a href="/"><picture><source media="(max-width: 1307px) and (min-width: 992px)" srcset="https://static-cz.car.gr/_nuxt/img/logo.cd34a0b.svg  100w 31h"/> <source media="(max-width: 991px)" srcset="https://static-cz.car.gr/_nuxt/img/logo.cd34a0b.svg  107w 33h"/> <img alt="logo" height="38px" src="https://static-cz.car.gr/_nuxt/img/logo.cd34a0b.svg" width="123px"/></picture></a>,
+ <a data-v-8870d302="" href="/information/privacy">
+                 Πολιτική απορρήτου
+               </a>]
